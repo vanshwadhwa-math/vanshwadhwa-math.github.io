@@ -1,6 +1,4 @@
 title: Vansh Wadhwa
 author: Vansh Wadhwa
 description: "Notes, problem-solving logs, and written pieces."
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+markdown: kramdown
