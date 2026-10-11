@@ -1,4 +1,6 @@
 title: Vansh Wadhwa
 author: Vansh Wadhwa
 description: "Notes, problem-solving logs, and written pieces."
-markdown: kramdown
+
+# Use standard Jekyll builder safely
+theme: minima
